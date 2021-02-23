@@ -1,0 +1,14 @@
+{
+    "app": {
+        "db": {
+            "mongoUrl": "mongodb://localhost:27017/commerce"
+        },
+        "server": {
+            "port": 8080,
+            "logMode": "debug"
+        },
+        "log": {
+            "level": "debug"
+        }
+    }
+}

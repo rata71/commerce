@@ -1,0 +1,14 @@
+{
+  "app": {
+    "db": {
+      "mongoUrl": "mongodb://bridge:nosotros@localhost:27017/commerce?authSource=admin"
+    },
+    "server": {
+      "port": 8080,
+      "logMode": "debug"
+    },
+    "log": {
+      "level": "debug"
+    }
+  }
+}

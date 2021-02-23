@@ -1,0 +1,16 @@
+{
+  "common.active": "¿Fica ativo?",
+  "common.save": "Salvar",
+  "common.new": "Novo",
+  "common.back": "Voltar",
+  "common.edit.error": "U objeto que vc intenta editar nao existe",
+  "common.message.required": "Adicione a informacao marcaca com (*)",
+  "common.validation.error": "Ocurreo um erro..",
+  "common.error": "Ocurreo um erro",
+  "common.success": "A operacao foi com sucesso",
+  "common.notifications": "Notificacoes..",
+  "title.blank": "Página en blanco",
+  "login.1": "Usuario o chave invalida..",
+  "landing1": "<b>fiscal flow</b> é uma solução <b> pensada e desenhada exclusivamente para\n                   varejo omnicanal.</b>",
+  "landing2": "Permite gerir de forma simples: emissão de NFC e gestão de\n                 impressoras de 2ª geração. </b> <br> <br>\n                 Além disso, facilita a incorporação de publicidade e ofertas aos seus vouchers, transformando cada\n                 venda em uma <b> nova oportunidade de reter seus clientes"
+}
